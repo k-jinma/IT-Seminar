@@ -3,8 +3,8 @@
    mmunity 8.0.20.0.msi) 」をダウンロードします
    https://dev.mysql.com/downloads/windows/installer/8.0.html
 
-   ![image-20210811221745030](C:\Users\JinmaKazuhiro\AppData\Roaming\Typora\typora-user-images\image-20210811221745030.png)
-   ![image-20210811221848646](C:\Users\JinmaKazuhiro\AppData\Roaming\Typora\typora-user-images\image-20210811221848646.png)
+   ![image-20210811221745030](images\image-20210811221745030.png)
+   ![image-20210811221848646](images\image-20210811221848646.png)
 
 2. MySQLインストール
 
