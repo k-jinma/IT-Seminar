@@ -8,17 +8,17 @@
    Visual Studio Codeを起動し、拡張機能を開き、検索キーワード「japan」を入力する。
    「Japanese Language Pack for Visual Studio Code」をインストールする。
 
-   ![image-20210811234516891](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210811234516891.png)
+   ![image-20210811234516891](https://github.com/k-jinma/IT-Seminar/blob/master/images/image-20210811234516891.png)
 
 3. MySQL 拡張機能の追加
    2.と同様に、検索機能を開き、検索キーワード「mysql」を入力する。
    「MySQL」をインストールする。
-   ![image-20210811234708125](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210811234708125.png)
+   ![image-20210811234708125](https://github.com/k-jinma/IT-Seminar/blob/master/images/image-20210811234708125.png)
 
 4. MySQL拡張機能を開き、データベース接続情報を指定する。
-   ![image-20210811234846430](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210811234846430.png)
+   ![image-20210811234846430](https://github.com/k-jinma/IT-Seminar/blob/master/images/image-20210811234846430.png)
 
    以下のようにDBが表示されるとOK。
    表示されない場合は、Visual Studio Codeを再起動する。
-   ![image-20210811234948834](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210811234948834.png)
+   ![image-20210811234948834](https://github.com/k-jinma/IT-Seminar/blob/master/images/image-20210811234948834.png)
 
