@@ -1,8 +1,8 @@
 CREATE Table orders (
-    orderno int NOT NULL,
+    no int NOT NULL,
     orderdate DATE NOT NULL,
     customerno VARCHAR(4) NOT NULL,
-    PRIMARY KEY(orderno),
+    PRIMARY KEY(no),
     FOREIGN KEY(customerno) REFERENCES customers(no)
 );
 
