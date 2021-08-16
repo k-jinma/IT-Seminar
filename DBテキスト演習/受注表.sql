@@ -6,6 +6,6 @@ CREATE Table orders (
     FOREIGN KEY(customerno) REFERENCES customers(no)
 );
 
-insert into orders ( orderno, orderdate, customerno )
+insert into orders ( no, orderdate, customerno )
     values ( 1, '2013-01-20', 'U001');
 
