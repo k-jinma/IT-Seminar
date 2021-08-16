@@ -4,7 +4,7 @@ CREATE Table ordersdetails (
     quantity int DEFAULT 0,
     PRIMARY KEY(orderno, itemno),
     FOREIGN KEY(orderno) REFERENCES orders(orderno),
-    FOREIGN KEY(itemno) REFERENCES item(no)
+    FOREIGN KEY(itemno) REFERENCES items(no)
 );
 
 insert into ordersdetails ( orderno, itemno, quantity )
