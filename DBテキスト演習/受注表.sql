@@ -3,7 +3,7 @@ CREATE Table orders (
     orderdate DATE NOT NULL,
     customerno VARCHAR(4) NOT NULL,
     PRIMARY KEY(orderno),
-    FOREIGN KEY(customerno) REFERENCES customer(no)
+    FOREIGN KEY(customerno) REFERENCES customers(no)
 );
 
 insert into orders ( orderno, orderdate, customerno )
