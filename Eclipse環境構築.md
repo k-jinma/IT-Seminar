@@ -32,6 +32,8 @@
     ![E03](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/E03.png)
 
    
+   アンインストールするには、「pleiades」フォルダごとゴミ箱に削除するだけです。
+   
 
    以上です。
    
