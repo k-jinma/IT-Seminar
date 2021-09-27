@@ -11,8 +11,9 @@
       ・ロケーションに「 http://www.ne.jp/asahi/zigen/home/plugin/dbviewer/ 」
       ![image-20210925133221105](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210925133221105.png)
    4. 入力後に「追加」ボタンをクリックします。
+
       ![image-20210925133244096](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210925133244096.png)
-   5. 『インストール』画面でDBViewer Pluginsにチェックを入れて、「次へ」ボタンをクリックします。
+   6. 『インストール』画面でDBViewer Pluginsにチェックを入れて、「次へ」ボタンをクリックします。
       ![image-20210925133317147](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210925133317147.png)
    6. 『インストール詳細』画面が表示されます。そのまま「次へ」ボタンをクリックします。
       ![image-20210925133344412](https://raw.githubusercontent.com/k-jinma/IT-Seminar/master/images/image-20210925133344412.png)
